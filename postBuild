@@ -1,1 +1,2 @@
 python -c "exec(\"import bokeh\\nbokeh.sampledata.download()\")"
+jupyter labextension install jupyterlab_bokeh
